@@ -3,7 +3,7 @@
 - Setting up the AWS profile may very based on an organizations requirements. For instance SSO would vary between org.
 
 ### Requirments
-- Linux or MacOS. Windows 
+- Linux or MacOS 
   - In this guide a new Ubuntu VM was created in VM Fusion.  This guide goes through setting up the Ubuntu VM.
 - Python3.6+ is required.
 - Terraform >= 0.14 installed and in your $PATH.
