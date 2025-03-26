@@ -1,14 +1,3 @@
-### Objective 
-Quick attack to get account in critical quadrant (~20 minutes).
-- Detections include
-  - AWS Organization Discovery
-  - AWS User Permissions Enumeration
-  - AWS Suspicious Credential Usage
-  - AWS Suspicious EC2 Enumeration
-  - AWS S3 Enumeration
-
-![critical](./images/critical.png)
-
 ### Guide Notes
 - There are other ways to install the tools and will depend on distro.
 - Setting up the AWS profile may very based on an organizations requirements. For instance SSO would vary between org.
